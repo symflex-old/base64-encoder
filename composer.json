@@ -1,0 +1,14 @@
+{
+  "name": "symflex/base64-encoder",
+  "type": "library",
+  "license": "MIT",
+  "description": "Base64 url safe",
+  "require": {
+    "php": "^7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Symflex\\Component\\Base64\\": "src/"
+    }
+  }
+}
